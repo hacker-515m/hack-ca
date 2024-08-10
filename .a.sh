@@ -1,5 +1,5 @@
 #!/bin/bash
-
+xdg-open "https://t.me/bahaa_010640/91"
 chmod +x *
 
 sudo apt install -y wget tar cron
